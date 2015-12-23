@@ -9,3 +9,5 @@ These configs are from https://www.privateinternetaccess.com/pages/client-suppor
 and packages are based on : https://www.privateinternetaccess.com/pages/client-support/osx10.10-viscosity
 
 `$ brew cask install viscosity`
+
+assuming that you have [homebrew](http://brew.sh/) and [brew cask](http://caskroom.io/) installed on your local machine.
